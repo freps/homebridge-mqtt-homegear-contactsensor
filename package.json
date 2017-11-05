@@ -1,0 +1,36 @@
+{
+    "name": "homebridge-mqtt-homegear-contactsensor",
+    "version": "0.0.1",
+    "description": "Homebridge plugin for MQTT homebridge-mqtt-homegear-contactsensor",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "echo \"Error: configure and run homebridge to start\" && exit 1"
+    },
+    "engines": {
+        "node": ">4.0.0",
+        "homebridge": ">=0.2.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/freps/homebridge-mqtt-homegear-contactsensor"
+    },
+    "keywords": [
+        "homebridge-plugin",
+        "MQTT",
+        "homekit",
+        "homegear",
+        "Siri",
+        "IoT",
+        "homebridge-mqtt-homegear-contactsensor"
+    ],
+    "dependencies": {
+        "mqtt": "^1.6.3"
+    },
+    "author": "freps",
+    "license": "GPL2",
+    "bugs": {
+        "url": "https://github.com/freps/homebridge-mqtt-homegear-contactsensor/issues"
+    },
+    "homepage": "https://github.com/freps/homebridge-mqtt-homegear-contactsensor"
+}
